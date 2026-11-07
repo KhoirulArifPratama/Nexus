@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\ACER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportPossiblyUnboundVariable": "none",
+    "reportUndefinedVariable": "none",
+    "reportGeneralTypeIssues": "none"
+  }
+}
